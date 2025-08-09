@@ -1,2 +1,2 @@
 # Background-Generator
-Valentines day themed and silly background color generator.
+A background gradient generator I made while I was trying to learn to code.
